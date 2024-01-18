@@ -1,5 +1,6 @@
 # Digital-Clock-using-atmega328p
 This is an user friendly tiny digital table clockwhereuser can access all basic functions of clocks includingsettingalarms,viewing temperature, viewing date, setting date andtime, etc.Ithas3button to set time , first we have to push the lockbuttonthetimewill paused after that we use one button for hour settingandanotherone is for minutes setting after that we have start clockbypushinglock button. It can be powered by a standard 9v battery. Its user interface is very simple. ATmega328pprovides20 GPIOs (14 digital and 6 analog) but as we are usingsevensegment displays we will be requiring 28 (7*4) pins onlyforsevensegment display alone.
+
 Component Used - 
 1. Atmega328p
 2. 28 Pin Ic Base
